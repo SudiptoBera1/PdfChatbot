@@ -1,0 +1,9 @@
+streamlit
+openai
+langchain
+langchain_community
+faiss-cpu
+langchain_openai
+pypdf
+python-dotenv
+pyngrok
